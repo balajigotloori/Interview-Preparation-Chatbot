@@ -158,14 +158,6 @@ Contributions are welcome!
 3. Commit your changes
 4. Submit a pull request
 
----
-
- 🧑‍💻 Author
-
-**Gotloori Balaji**
-📍 Madanapalle, Andhra Pradesh
-📧 [gotlooribalaji@gmail.com](mailto:gotlooribalaji@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/gotloori-balaji)
 
 ---
 
