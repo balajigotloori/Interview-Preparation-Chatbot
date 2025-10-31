@@ -141,8 +141,8 @@ The app will be accessible at **http://localhost:8080**
 
 ---
 
-## 📘 Future Enhancements
-
+**## 📘 Future Enhancements
+**
 - Add user authentication and personalized interview tracking.
 - Expand AI models for domain-specific interviews (Tech, HR, Finance, etc.).
 - Build a frontend chatbot interface with Streamlit or React.
@@ -150,8 +150,8 @@ The app will be accessible at **http://localhost:8080**
 
 ---
 
-## 🤝 Contributing
-
+**## 🤝 Contributing
+**
 Contributions are welcome!
 1. Fork the repository
 2. Create a new branch
@@ -161,8 +161,9 @@ Contributions are welcome!
 
 ---
 
- 🪪 License
 
+**🪪 License
+**
 This project is licensed under the **MIT License** — feel free to use, modify, and distribute.
 
 
