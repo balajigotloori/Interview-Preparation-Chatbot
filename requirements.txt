@@ -1,0 +1,15 @@
+streamlit
+textblob
+pandas
+# lightweight plotting (optional)
+matplotlib
+plotly
+# environment helpers
+python-dotenv
+requests
+# LLM providers (optional - install only the provider you plan to use)
+openai  # install if using OpenAI
+# For Google Gemini / Generative AI, install the Google AI Platform client used in your environment.
+# `google-cloud-aiplatform` is commonly available and works for many Google GenAI workflows.
+google-cloud-aiplatform
+google-auth

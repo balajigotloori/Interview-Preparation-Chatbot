@@ -1,0 +1,14 @@
+{
+  "hr": [
+    "Tell me about yourself.",
+    "Why do you want to work here?",
+    "Describe a challenge you faced and how you resolved it.",
+    "Where do you see yourself in five years?"
+  ],
+  "technical": [
+    "Explain the concept of polymorphism in object-oriented programming.",
+    "What is a RESTful API?",
+    "How do you optimize database queries?",
+    "Describe a project where you used data structures to improve performance."
+  ]
+}
